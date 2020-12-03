@@ -55,6 +55,11 @@ Home server, back up, remote connection to home network, filtering out ads and m
 https://github.com/naumowicz/raspberry
 #### Arduino
 Repository containing code for simple home automation 
+
+#### Miscellaneous
+Repository for useful stuff
+
+https://naumowicz.github.io/miscellaneous/
 <!--
 **naumowicz/naumowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
