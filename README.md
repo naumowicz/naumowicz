@@ -44,6 +44,10 @@ https://www.eventstorming.com/
 <hr />
 
 ### ❤ My projects:
+#### Przepisy
+React app for gathering recipes worth trying again (Polish).
+
+https://github.com/naumowicz/przepisy
 #### VRT
 Project for testing websites by visual regression.
 
