@@ -25,7 +25,6 @@
 <img align="left" width="30vw" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" />
 <img align="left" width="30vw" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Tampermonkey_logo.svg" />
 <img align="left" height="30hw" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" width="30vw" src="https://camo.githubusercontent.com/b5639de5cfa97c51598b60b13a1061498afe2acb/68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3244324b343533313278304d31713243306133502f6a6573742d6c6f676f2e737667" />
 <img align="left" height="30hw" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 <img align="left" height="40hw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
