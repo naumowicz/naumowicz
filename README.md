@@ -53,8 +53,9 @@ Home server, back up, remote connection to home network, filtering out ads and m
 
 https://github.com/naumowicz/raspberry
 #### Arduino
-Repository containing code for simple home automation 
+Repository containing code for simple home automation
 
+https://github.com/naumowicz/arduino-projects
 #### Miscellaneous
 Repository for useful stuff
 
