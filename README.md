@@ -27,6 +27,7 @@
 <img align="left" height="30hw" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" height="30hw" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 <img align="left" height="40hw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" height="30hw" src="https://avatars.githubusercontent.com/u/93662?s=200&v=4" />
 <br />
 <hr />
 
